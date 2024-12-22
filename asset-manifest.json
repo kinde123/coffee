@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/coffee/static/css/main.2488d242.css",
-    "main.js": "/coffee/static/js/main.8224212f.js",
-    "static/js/453.e3bcbf64.chunk.js": "/coffee/static/js/453.e3bcbf64.chunk.js",
-    "static/media/hero.jpeg": "/coffee/static/media/hero.31c7e4c9414e80b1a682.jpeg",
-    "static/media/durame.png": "/coffee/static/media/durame.d6c299cbdc1c1c5b59ee.png",
-    "static/media/durame1.png": "/coffee/static/media/durame1.18284028417b73f44cd5.png",
-    "index.html": "/coffee/index.html",
-    "main.2488d242.css.map": "/coffee/static/css/main.2488d242.css.map",
-    "main.8224212f.js.map": "/coffee/static/js/main.8224212f.js.map",
-    "453.e3bcbf64.chunk.js.map": "/coffee/static/js/453.e3bcbf64.chunk.js.map"
+    "main.css": "/Ethiopan-coffee/static/css/main.2488d242.css",
+    "main.js": "/Ethiopan-coffee/static/js/main.bbffc13e.js",
+    "static/js/453.e3bcbf64.chunk.js": "/Ethiopan-coffee/static/js/453.e3bcbf64.chunk.js",
+    "static/media/hero.jpeg": "/Ethiopan-coffee/static/media/hero.31c7e4c9414e80b1a682.jpeg",
+    "static/media/durame.png": "/Ethiopan-coffee/static/media/durame.d6c299cbdc1c1c5b59ee.png",
+    "static/media/durame1.png": "/Ethiopan-coffee/static/media/durame1.18284028417b73f44cd5.png",
+    "index.html": "/Ethiopan-coffee/index.html",
+    "main.2488d242.css.map": "/Ethiopan-coffee/static/css/main.2488d242.css.map",
+    "main.bbffc13e.js.map": "/Ethiopan-coffee/static/js/main.bbffc13e.js.map",
+    "453.e3bcbf64.chunk.js.map": "/Ethiopan-coffee/static/js/453.e3bcbf64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2488d242.css",
-    "static/js/main.8224212f.js"
+    "static/js/main.bbffc13e.js"
   ]
 }
