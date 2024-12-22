@@ -1,7 +1,6 @@
 
 import React from 'react';
 import { products } from './data'; // Assuming you have a data.js file with product data
-// import './.css'; // Import your CSS file for styling
 import Hero from './images/hero.jpeg';
 import logo from './images/durame.png';
 import Navbar from './Navbar';
